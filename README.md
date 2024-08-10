@@ -26,8 +26,6 @@ In analyzing this data, ChatGPT's GPT-4 architecture showcases its ability to qu
 
 [GitHub README](https://chat.openai.com/g/g-rA63DaENC-readme)
 <br>
-[GitHub Commit Analyzer](https://github.com/sourceduty/GitHub_Commit_Analyzer)
-<br>
 [Repo Card Generator](https://github.com/sourceduty/Repo_Card_Generator)
 
 ***
