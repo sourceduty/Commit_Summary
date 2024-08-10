@@ -1,4 +1,4 @@
-![Commit Summary](https://github.com/user-attachments/assets/ef8c1d75-1afa-40db-ac0b-43bcf72dbc14)
+![Commit Summary](https://github.com/user-attachments/assets/b3a2d968-babd-4986-8b57-5cba07610d37)
 
 > Fetch and aggregate commit statistics from all repositories belonging to a specific GitHub user.
 
