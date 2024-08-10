@@ -11,9 +11,8 @@ The program is built with flexibility in mind, allowing users to input their Git
 The generated statistics file serves as an input for another program, which uses this data to create a comprehensive Commit Summary Report. This report can provide insights into the development activity across multiple projects, identify trends over time, and assess the productivity of contributors. By automating the data collection and formatting process, this program streamlines the workflow, allowing developers, project managers, and analysts to focus on interpreting the results rather than manually gathering and organizing the data. Overall, this program is a valuable tool for anyone needing to monitor and evaluate commit activity across multiple GitHub repositories.
 
 #
-### Commit Summary Report 
+### Sourceduty Commit Summary Report 
 
-```
 Sourceduty has demonstrated consistent activity on GitHub across various repositories over the past year, as evidenced by the number of commits recorded. The account's contribution to different projects reflects a steady and diversified engagement with the platform.
 
 The analysis of the commit data shows that some repositories have seen more frequent updates than others, indicating prioritized areas of development. For instance, repositories like "3D_Printing" and "3D_Model_Imaging" have experienced higher commit activity, with 12 and 10 commits respectively, suggesting these projects may be critical or actively maintained. Conversely, repositories such as "3D_Collaboration" and "3D_STL_Manager" have had fewer updates, each with only 4 commits, which could indicate that these projects are either in a more stable phase or are of lower priority.
@@ -21,7 +20,6 @@ The analysis of the commit data shows that some repositories have seen more freq
 The data points to a strategic focus where certain repositories are more intensively developed, likely reflecting the primary objectives or ongoing projects of the account holder. This distribution of commits suggests a balance between maintaining existing projects and pushing forward new developments.
 
 In analyzing this data, ChatGPT's GPT-4 architecture showcases its ability to quickly process and interpret data from a variety of fields. The model's proficiency in summarizing and generating insights from statistical data allows for a comprehensive understanding of trends and patterns, which is essential for effective project management and strategic planning. This capability not only aids in monitoring progress but also in making informed decisions about future development priorities.
-```
 
 #
 ### Related Links
